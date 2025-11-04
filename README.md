@@ -81,20 +81,4 @@ Ich lerne kontinuierlich weiter (FastAPI, pytest, Docker, CI/CD) und bereite mic
 - **Russisch** 🇷🇺 – Muttersprache  
 - **Englisch** 🇬🇧 – gute berufliche Kenntnisse  
 
----
-
-### 🔭 Aktuelle Projekte
-- **Employee Birthday & Anniversary Report System**  
-  Ein Python / FastAPI-Tool, das Geburtstags- und Jubiläumsberichte automatisch aus CSV-Daten generiert.  
-
----
-
-### 🧠 Was mich auszeichnet
-- Ich kenne die Realität von Teamarbeit, Zeitdruck und Verantwortung aus der Praxis.  
-- Ich kann Geschäftsprozesse verstehen und sie in Code übersetzen.  
-- Mir ist Zuverlässigkeit wichtiger als „coole Technik“.  
-
-### 📫 Contact
-- GitHub: [Plukster](https://github.com/Plukster)
-- Email: gd4games@gmail.com
-- Location: Germany 🇩🇪
+--
