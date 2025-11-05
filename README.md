@@ -55,30 +55,4 @@ I’ve led people, solved problems under pressure, and now I'm turning that into
 
 
 
-## 👋 Hallo, ich bin Gregory Ditter
 
-Ich arbeite seit über 13 Jahren in der Logistik – davon mehrere Jahre als **Abteilungsleiter** mit Verantwortung für Mitarbeiter und Abläufe.  
-Aus dieser Erfahrung entstand mein Wunsch, Prozesse mit **Software und Automatisierung** effizienter zu gestalten.  
-
-Heute entwickle ich mit **Python** kleine Tools und Web-Services, die echte Geschäftsprobleme lösen.  
-Ich lerne kontinuierlich weiter (FastAPI, pytest, Docker, CI/CD) und bereite mich auf eine zukünftige **selbstständige Tätigkeit im IT-Bereich** vor.
-
----
-
-### 💡 Schwerpunkte
-- Python (Automatisierung / Datenverarbeitung / Reporting)  
-- FastAPI & REST APIs  
-- CSV / JSON / SQL Grundkenntnisse  
-- Git & GitHub  
-- Docker (aktuell im Aufbau)  
-- CI/CD (aktuell im Aufbau)
-
----
-
-### 🌍 Sprachen
-- **Deutsch** 🇩🇪 – Muttersprache  
-- **Ukrainisch** 🇺🇦 – Muttersprache  
-- **Russisch** 🇷🇺 – Muttersprache  
-- **Englisch** 🇬🇧 – gute berufliche Kenntnisse  
-
---
