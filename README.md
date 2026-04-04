@@ -45,6 +45,7 @@ This is not just a career change. It's ownership of my future.
 ### 📫 Contact
 - GitHub: [Plukster](https://github.com/Plukster)
 - Email: gd4games@gmail.com
+- YouTube:ByteDrift
 - Location: Germany 🇩🇪
 
 ---
